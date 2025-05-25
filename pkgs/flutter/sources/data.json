@@ -1,7 +1,7 @@
 {
   "version": "3.22.2",
   "engineVersion": "edd8546116457bdf1c5bdfb13ecb9463d2bb5ed4",
-  "dartVersion": "3.4.3",
+  "dartVersion": "3.5.0",
   "flutterHash": "sha256-7ndnIw72YxNB+VeeejEeRD+xxuLXOcWo322s5CMWzBM=",
   "artifactHashes": {
     "android": {
